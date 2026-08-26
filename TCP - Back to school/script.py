@@ -1,5 +1,4 @@
 import math
-from os import system
 from re import findall
 import socket 
 
