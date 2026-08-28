@@ -1,1 +1,1 @@
-this is my humble repo, where i solve root-me.org CTFs, and share my solutions.
+this is my humble repository where I solve CTFs from anywhere, and share my solutions.
